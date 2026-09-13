@@ -5,6 +5,8 @@ app_description = "Oral proficiency assessment tracking for the Fluency Program 
 app_email = "dev@learnarabic.ca"
 app_license = "mit"
 
+after_install = "fluency_tracker.install.after_install"
+
 # Apps
 # ------------------
 
