@@ -16,7 +16,6 @@ def add_certificate_evaluation_custom_fields():
 					"fieldtype": "Select",
 					"options": "Entry\nMonthly\nPhase Checkpoint\nBlock Gate",
 					"label": "Assessment Type",
-					"reqd": 1,
 					"insert_after": "status",
 				},
 				{

@@ -10,7 +10,7 @@ after_install = "fluency_tracker.install.after_install"
 # Apps
 # ------------------
 
-# required_apps = []
+required_apps = ["lms"]
 
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
